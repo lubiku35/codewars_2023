@@ -34,7 +34,6 @@ nose, mouth) elements will always be the same.
 
 ## Challenge Solutions
 
----
 
 ### Solution 01
 

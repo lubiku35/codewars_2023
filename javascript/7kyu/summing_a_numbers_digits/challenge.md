@@ -19,7 +19,6 @@ Let's assume that all numbers in the input will be integer values.
 
 ## Challenge Solutions
 
----
 
 ### Solution 01
 
