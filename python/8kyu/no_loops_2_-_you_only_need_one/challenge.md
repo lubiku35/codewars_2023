@@ -24,4 +24,4 @@ def check(a, x):
 
 **DESCRIPTION:**
 
-Challenge with very simple solution, just check if value x is in array a and return True if it is else return False.s
+Challenge with very simple solution, just check if value x is in array a and return True if it is else return False.
