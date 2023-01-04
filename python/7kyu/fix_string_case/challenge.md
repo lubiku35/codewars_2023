@@ -30,7 +30,6 @@ Please also try:
 
 ### Solution 01
 
----
 
 ```python
 def lowers(s):

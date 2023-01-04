@@ -22,7 +22,6 @@ Let's assume that all numbers in the input will be integer values.
 
 ### Solution 01
 
----
 
 ```jsx
 function sumDigits(number) {

@@ -23,7 +23,6 @@ Looking for more, loop-restrained fun? Check out the other kata in the series:
 
 ### Solution 01
 
----
 
 ```python
 def small_enough(a, limit):

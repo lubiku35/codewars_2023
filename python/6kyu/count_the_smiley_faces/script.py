@@ -1,4 +1,6 @@
-def count_smileys(arr):
-    valids = [':)', ';)', ':D', ';D', '-)', '-D', '~)', '~D']
-    return len([x for x in arr if x[1::] in valids or x in valids])
+def two_sum(numbers, target):
+    for i in range(len(numbers)):
+        for j in range(i + 1, len(numbers)):
+            if numbers[i] + numbers[j] == target: return [i, j]
+
 
