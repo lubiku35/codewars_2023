@@ -2,7 +2,7 @@
 
 Codewars collection from 2023 year
 
-**challenges completed** > 9
+**challenges completed** > 10
 
 **languages trained** > python, javascript
 
