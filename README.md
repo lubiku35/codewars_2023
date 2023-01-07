@@ -12,13 +12,22 @@ Codewars collection from 2023 year
 ### Python
 
 - **8 kyu**
-  
+
   - [No Loops 2 - You only need one](./python/8kyu/no_loops_2_-_you_only_need_one/challenge.md)
 
   - [Sum of differences in array](./python/8kyu/sum_of_differences_in_array/challenge.md)
 
   - [A wolf in sheep's clothing](./python/8kyu/a_wolf_in_sheeps_clothing/challenge.md)
 
+  - [Localize The Barycenter of a Triangle](./python/8kyu/localize_the_barycenter_of_a_triangle/challenge.md)
+
+  - [Pythagorean Triple](./python/8kyu/pythagorean_triple/challenge.md)
+
+  - [CSV representation of array](./python/8kyu/csv_representation_of_array/challenge.md)
+
+  - [Grasshopper - Debug sayHello](./python/8kyu/grasshopper_debug_sayhello/challenge.md)
+
+ 
 - **7 kyu**
   
   -  [No Loops 1 - Small Enough?](./python/7kyu/no_loops_1_-_small_enough/challenge.md)
