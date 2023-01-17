@@ -50,6 +50,8 @@ Codewars collection from 2023 year
 
   - [Title Case](./python/6kyu/title_case/challenge.md)
   
+  - [Your order, please](./python/6kyu/your_order_please/challenge.md)
+  
 - **5 kyu**
 
   - [Extract the domain name from a URL](./python/5kyu/extract_domain_name_from_url/challenge.md)
@@ -70,6 +72,8 @@ Codewars collection from 2023 year
   - [Cat years, Dog years](./javascript/8kyu/cat_years_dog_years/challenge.md)
 
   - [Powers of 2](./javascript/8kyu/powers_of_2/challenge.md)
+
+  - [Reversed Words](./javascript/8kyu/reversed_words/challenge.md)
 
 - **7 kyu**
   
