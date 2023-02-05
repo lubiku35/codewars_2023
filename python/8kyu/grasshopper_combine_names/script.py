@@ -1,0 +1,1 @@
+def combine_names(n, s): return n + " " + s
