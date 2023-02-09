@@ -16,6 +16,8 @@ Codewars collection from 2023 year
 - **8 kyu**
 
   - [A wolf in sheep's clothing](./python/8kyu/a_wolf_in_sheeps_clothing/challenge.md)
+ 
+  - [Are arrow functions odd?](./python/8kyu/are_arrow_functions_odd/challenge.md)
 
   - [CSV representation of array](./python/8kyu/csv_representation_of_array/challenge.md)
 
@@ -24,6 +26,8 @@ Codewars collection from 2023 year
   - [Grasshopper - Combine Names](./python/8kyu/grasshopper_combine_names/challenge.md)
 
   - [Grasshopper - Debug sayHello](./python/8kyu/grasshopper_debug_sayhello/challenge.md)
+  - 
+  - [Grasshopper - Terminal Game #01](./python/8kyu/grasshopper_terminal_game_01/challenge.md)
 
   - [Localize The Barycenter of a Triangle](./python/8kyu/localize_the_barycenter_of_a_triangle/challenge.md)
   

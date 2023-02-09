@@ -15,4 +15,4 @@ def build_string(*args):
 
 **DESCRIPTION:**
 
-formating
+formatting a string
