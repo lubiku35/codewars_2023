@@ -1,50 +1,54 @@
-
 # Meeting
 
 ## Challenge Description
 
----
-
-Given an array (arr) as an argument complete the function `countSmileys` that should return the total number of smiling faces.
-
-Rules for a smiling face:
-
-- Each smiley face must contain a valid pair of eyes. Eyes can be marked as `:` or `;`
-- A smiley face can have a nose but it does not have to. Valid characters for a nose are `` or `~`
-- Every smiling face must have a smiling mouth that should be marked with either `)` or `D`
-
-No additional characters are allowed except for those mentioned.
-
-**Valid smiley face examples:** `:) :D ;-D :~)`**Invalid smiley faces:**  `;( :> :} :]`
-
-### Example
-
 ```
-countSmileys([':)', ';(', ';}', ':-D']);       // should return 2;
-countSmileys([';D', ':-(', ':-)', ';~)']);     // should return 3;
-countSmileys([';]', ':[', ';*', ':$', ';-D']); // should return 1;
-
+s = "Fred:Corwill;Wilfred:Corwill;Barney:Tornbull;Betty:Tornbull;Bjon:Tornbull;Raphael:Corwill;Alfred:Corwill";
 ```
 
-### Note
+Could you make a program that
 
-In case of an empty array return 0. You will not be tested with 
-invalid input (input will always be an array). Order of the face (eyes, 
-nose, mouth) elements will always be the same.
+- makes this string uppercase
+- gives it sorted in alphabetical order by last name.
+
+When the last names are the same, sort them by first name.
+Last name and first name of a guest come in the result between parentheses separated by a comma.
+
+So the result of function `meeting(s)` will be:
+
+```
+"(CORWILL, ALFRED)(CORWILL, FRED)(CORWILL, RAPHAEL)(CORWILL, WILFRED)(TORNBULL, BARNEY)(TORNBULL, BETTY)(TORNBULL, BJON)"
+```
+
+It can happen that in two distinct families with the same family name two people have the same first name too.
+
+### Notes
+
+- You can see another examples in the "Sample tests".
 
 ## Challenge Solutions
 
-
 ### Solution 01
 
----
-
 ```python
-def count_smileys(arr):
-    valids = [':)', ';)', ':D', ';D', '-)', '-D', '~)', '~D']
-    return len([x for x in arr if x[1::] in valids or x in valids])
+def meeting(s):
+    names = [x.replace(':', ' ').upper() for x in s.split(";")]
+    first_names = [name[0:name.index(' ')].upper() for name in names]
+    last_names = [name[name.index(' ') + 1:].upper() for name in names]
+    zipped = list(zip(last_names, first_names))
+    sorted_zipped = sorted(zipped)
+    x = ""
+    for i in sorted_zipped:
+        str = "("
+        for j in i:
+            if str.endswith(", "):
+                str += j + ')'
+            else:
+                str += j + ', '
+        x += str
+    return x
 ```
 
 **DESCRIPTION:**
 
-First of all, we got some cases when it is the right smiley, if we just count the last two characters of all possible right smileys, it is exactly the corresponding array of valids in our function. Then it is very simple, we just loop through our input param and check for every item if it’s last two character’s are in our array of valids.
+uff kinda cool
