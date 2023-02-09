@@ -62,7 +62,9 @@ Codewars collection from 2023 year
   
   - [No Loops 1 - Small Enough?](./python/7kyu/no_loops_1_-_small_enough/challenge.md)
   
-  - [Sorted? yes? no? how?](./python/7kyu/sorted_yes_no_how/challenge.md) 
+  - [Sorted? yes? no? how?](./python/7kyu/sorted_yes_no_how/challenge.md)
+   
+  - [Sum Of Minimums](./python/7kyu/sum_of_minimums/challenge.md) 
   
   
 - **6 kyu**
