@@ -4,7 +4,7 @@ Codewars collection from 2023 year
 
 ---
 
-**challenges completed** > 38
+**challenges completed** > 45
 
 **languages trained** > python, javascript
 
@@ -52,7 +52,9 @@ Codewars collection from 2023 year
   
   - [Fix String Case](./python/7kyu/fix_string_case/challenge.md)
   
-  - [Flatten](./python/7kyu/flatten/challenge.md)
+  - [Flatten](./python/7kyu/flatten/challenge.md) 
+ 
+  - [Greet Me](./python/7kyu/greet_me/challenge.md)
   
   - [Largest pair sum in array](./python/7kyu/largest_pair_sum_in_array/challenge.md) 
   
@@ -72,6 +74,8 @@ Codewars collection from 2023 year
   - [Count the smiley faces!](./python/6kyu/count_the_smiley_faces/challenge.md)
 
   - [Find the unique number](./python/6kyu/find_unique/challenge.md)
+  
+  - [Meeting](./python/6kyu/meeting/challenge.md)
   
   - [Title Case](./python/6kyu/title_case/challenge.md)
   
