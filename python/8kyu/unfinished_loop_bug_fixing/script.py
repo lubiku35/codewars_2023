@@ -5,5 +5,3 @@ def create_array(n):
         res+=[i]
         i+=1
     return res
-
-print(create_array(5))

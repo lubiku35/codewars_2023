@@ -26,24 +26,24 @@ Codewars collection from 2023 year
   - [Grasshopper - Combine Names](./python/8kyu/grasshopper_combine_names/challenge.md)
 
   - [Grasshopper - Debug sayHello](./python/8kyu/grasshopper_debug_sayhello/challenge.md)
-  - 
+ 
   - [Grasshopper - Terminal Game #01](./python/8kyu/grasshopper_terminal_game_01/challenge.md)
+ 
+  - [Lario and Muigi Pipe Problem](./python/8kyu/lario_and_muigi_pipe_problem/challenge.md)
 
   - [Localize The Barycenter of a Triangle](./python/8kyu/localize_the_barycenter_of_a_triangle/challenge.md)
   
   - [No Loops 2 - You only need one](./python/8kyu/no_loops_2_-_you_only_need_one/challenge.md)
   
   - [Pythagorean Triple](./python/8kyu/pythagorean_triple/challenge.md)
+  
+  - [simple calculator](./python/8kyu/simple_calculator/challenge.md)
 
   - [String templates #Bug Fixing 5](./python/8kyu/string_templates_bug_fixing/challenge.md)
   
   - [Sum of differences in array](./python/8kyu/sum_of_differences_in_array/challenge.md)
   
   - [Unfinished Loop #Bug Fixing 1](./python/8kyu/unfinished_loop_bug_fixing/challenge.md)
-
-
-
-
 
  
 - **7 kyu**
