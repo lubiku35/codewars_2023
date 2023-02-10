@@ -43,6 +43,8 @@ Codewars collection from 2023 year
   
   - [Sum of differences in array](./python/8kyu/sum_of_differences_in_array/challenge.md)
   
+  - [The "if" Function](./python/8kyu/the_if_function/challenge.md)
+  
   - [Unfinished Loop #Bug Fixing 1](./python/8kyu/unfinished_loop_bug_fixing/challenge.md)
 
  
@@ -76,6 +78,8 @@ Codewars collection from 2023 year
   - [Find the unique number](./python/6kyu/find_unique/challenge.md)
   
   - [Meeting](./python/6kyu/meeting/challenge.md)
+  
+  - [Replace With Alphabet Position](./python/6kyu/replace_with_alphabet_position/challenge.md)
   
   - [Title Case](./python/6kyu/title_case/challenge.md)
   
