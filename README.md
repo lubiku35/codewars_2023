@@ -4,7 +4,7 @@ Codewars collection from 2023 year
 
 ---
 
-**challenges completed** > 45
+**challenges completed** > 49
 
 **languages trained** > python, javascript
 
@@ -36,6 +36,8 @@ Codewars collection from 2023 year
   - [No Loops 2 - You only need one](./python/8kyu/no_loops_2_-_you_only_need_one/challenge.md)
   
   - [Pythagorean Triple](./python/8kyu/pythagorean_triple/challenge.md)
+  
+  - [Return The Day](./python/8kyu/return_the_day/challenge.md)
   
   - [simple calculator](./python/8kyu/simple_calculator/challenge.md)
 
@@ -94,6 +96,8 @@ Codewars collection from 2023 year
   - [Extract the domain name from a URL](./python/5kyu/extract_domain_name_from_url/challenge.md)
   
   - [String Incrementer](./python/5kyu/string_incrementer/challenge.md)
+  
+  - [ROT13](./python/5kyu/rot_13/challenge.md)
   
 - **4 kyu**
 
