@@ -4,7 +4,7 @@ Codewars collection from 2023 year
 
 ---
 
-**challenges completed** > 49
+**challenges completed** > 54
 
 **languages trained** > python, javascript
 
@@ -20,6 +20,8 @@ Codewars collection from 2023 year
   - [Are arrow functions odd?](./python/8kyu/are_arrow_functions_odd/challenge.md)
 
   - [CSV representation of array](./python/8kyu/csv_representation_of_array/challenge.md)
+  
+  - [Exclamation marks series #1: Remove an exclamation mark from the end of string](./python/8kyu/exclamation_marks_series_01/challenge.md)
 
   - [Grasshopper - Array Mean](./python/8kyu/grasshopper_array_mean/challenge.md)
 
@@ -28,6 +30,8 @@ Codewars collection from 2023 year
   - [Grasshopper - Debug sayHello](./python/8kyu/grasshopper_debug_sayhello/challenge.md)
  
   - [Grasshopper - Terminal Game #01](./python/8kyu/grasshopper_terminal_game_01/challenge.md)
+  
+  - [Is There a vowel in There?](./python/8kyu/is_there_a_vowel_in_there/challenge.md)
  
   - [Lario and Muigi Pipe Problem](./python/8kyu/lario_and_muigi_pipe_problem/challenge.md)
 
@@ -68,9 +72,13 @@ Codewars collection from 2023 year
   
   - [No Loops 1 - Small Enough?](./python/7kyu/no_loops_1_-_small_enough/challenge.md)
   
+  - [Row Weights](./python/7kyu/row_weights/challenge.md)
+  
   - [Sorted? yes? no? how?](./python/7kyu/sorted_yes_no_how/challenge.md)
    
-  - [Sum Of Minimums](./python/7kyu/sum_of_minimums/challenge.md) 
+  - [Sum Of Minimums](./python/7kyu/sum_of_minimums/challenge.md)
+   
+  - [The Coupon Code](./python/7kyu/the_coupon_code/challenge.md) 
   
   
 - **6 kyu**
@@ -78,6 +86,8 @@ Codewars collection from 2023 year
   - [Count the smiley faces!](./python/6kyu/count_the_smiley_faces/challenge.md)
 
   - [Find the unique number](./python/6kyu/find_unique/challenge.md)
+  
+  - [Data Reverse](./python/6kyu/data_reverse/challenge.md)
   
   - [Meeting](./python/6kyu/meeting/challenge.md)
   
