@@ -4,7 +4,7 @@ Codewars collection from 2023 year
 
 ---
 
-**challenges completed** > 54
+**challenges completed** > 58
 
 **languages trained** > python, javascript
 
@@ -120,6 +120,14 @@ Codewars collection from 2023 year
 ### Javasctipt
 
 - **8 kyu**
+  
+  - [Training JS #1: create your first JS function and print "Hello World!"](./javascript/8kyu/01_training_js_first_function/challenge.md)
+  
+  - [Training JS #2: Basic data types--Number](./javascript/8kyu/02_training_js_number/challenge.md)
+  
+  - [Training JS #3: Basic data types--String](./javascript/8kyu/03_training_js_string/challenge.md)
+  
+  - [Training JS #4: Basic data types--Array](./javascript/8kyu/04_training_js_array/challenge.md)
   
   - [Cat years, Dog years](./javascript/8kyu/cat_years_dog_years/challenge.md)
   
