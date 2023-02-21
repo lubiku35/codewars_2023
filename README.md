@@ -4,7 +4,7 @@ Codewars collection from 2023 year
 
 ---
 
-**challenges completed** > 58
+**challenges completed** > 62
 
 **languages trained** > python, javascript
 
@@ -128,6 +128,14 @@ Codewars collection from 2023 year
   - [Training JS #3: Basic data types--String](./javascript/8kyu/03_training_js_string/challenge.md)
   
   - [Training JS #4: Basic data types--Array](./javascript/8kyu/04_training_js_array/challenge.md)
+  
+  - [Training JS #5: Basic data types--Object](./javascript/8kyu/05_training_js_object/challenge.md)
+  
+  - [Training JS #6: Basic data types--Boolean and conditional statements if..else](./javascript/8kyu/06_training_js_boolean/challenge.md)
+  
+  - [Training JS #7: if..else and ternary operator](./javascript/8kyu/07_training_js_if_else_ternary/challenge.md)
+  
+  - [Training JS #8: Conditional statement--switch](./javascript/8kyu/08_training_js_switch/challenge.md)
   
   - [Cat years, Dog years](./javascript/8kyu/cat_years_dog_years/challenge.md)
   
