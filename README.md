@@ -140,6 +140,8 @@ Codewars collection from 2023 year
   - [Cat years, Dog years](./javascript/8kyu/cat_years_dog_years/challenge.md)
   
   - [Collatz Conjecture (3n+1)](./javascript/8kyu/collatz_conjecture_(3n+1)/boiler/challenge.md)
+  
+  - [Function 01 Hello World](./javascript/8kyu/01_training_js_first_function/challenge.md)
 
   - [Fundamentals: Return](./javascript/8kyu/fundamentals_return/challenge.md)
   
