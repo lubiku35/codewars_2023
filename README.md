@@ -4,7 +4,7 @@ Codewars collection from 2023 year
 
 ---
 
-**challenges completed** > 62
+**challenges completed** > 68
 
 **languages trained** > python, javascript
 
@@ -22,6 +22,8 @@ Codewars collection from 2023 year
   - [CSV representation of array](./python/8kyu/csv_representation_of_array/challenge.md)
   
   - [Exclamation marks series #1: Remove an exclamation mark from the end of string](./python/8kyu/exclamation_marks_series_01/challenge.md)
+ 
+  - [Fix your code before the garden dies!](./python/8kyu/fix_your_code_before_the_garden_dies/challenge.md)
 
   - [Grasshopper - Array Mean](./python/8kyu/grasshopper_array_mean/challenge.md)
 
@@ -136,6 +138,14 @@ Codewars collection from 2023 year
   - [Training JS #7: if..else and ternary operator](./javascript/8kyu/07_training_js_if_else_ternary/challenge.md)
   
   - [Training JS #8: Conditional statement--switch](./javascript/8kyu/08_training_js_switch/challenge.md)
+  
+  - [Training JS #9: loop statement --while and do..while](./javascript/8kyu/09_training_while_do_while/challenge.md)
+  
+  - [Training JS #10: loop statement --for](./javascript/8kyu/10_training_for/challenge.md)
+  
+  - [Training JS #11: loop statement --break,continue](./javascript/8kyu/11_training_break_continue/challenge.md)
+  
+  - [Training JS #12: loop statement --for..in and for..of](./javascript/8kyu/12_training_for_in_for_of/challenge.md)
   
   - [Cat years, Dog years](./javascript/8kyu/cat_years_dog_years/challenge.md)
   
